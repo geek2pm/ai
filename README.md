@@ -10,4 +10,5 @@ trusted-host = https://pypi.tuna.tsinghua.edu.cn
 ```
 ```
 pip3 install labelme
+pip3 install imageai --upgrade
 ```
